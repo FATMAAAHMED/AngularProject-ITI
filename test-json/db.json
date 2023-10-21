@@ -1,0 +1,87 @@
+{
+  "Products": [
+    {
+      "id": 3,
+      "Name": "camera2",
+      "Quantity": 0,
+      "Price": 5000,
+      "Img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "CateogryID": 1
+    },
+    {
+      "id": 15,
+      "Name": "camera3",
+      "Quantity": 2,
+      "Price": 1000,
+      "Img": "https://images.pexels.com/photos/3007208/pexels-photo-3007208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "CateogryID": 2
+    },
+    {
+      "id": 7,
+      "Name": "camera4",
+      "Quantity": 1,
+      "Price": 20000,
+      "Img": "https://images.pexels.com/photos/1787235/pexels-photo-1787235.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "CateogryID": 2
+    },
+    {
+      "id": 99,
+      "Name": "asd",
+      "Quantity": 15,
+      "Price": 7000,
+      "Img": "https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "CateogryID": 3
+    },
+    {
+      "Name": "newupdate",
+      "Quantity": 12,
+      "Price": 6787,
+      "CateogryID": "undefined",
+      "id": 100
+    },
+    {
+      "Name": "new photo",
+      "Quantity": 13,
+      "Price": 240,
+      "CateogryID": "3",
+      "id": 102
+    },
+    {
+      "Name": "newphotoprod",
+      "Quantity": 23,
+      "Price": 157,
+      "CateogryID": "2",
+      "id": 103
+    },
+    {
+      "Name": "newprod",
+      "Quantity": 45,
+      "Price": 55,
+      "Img": "https://images.pexels.com/photos/3007208/pexels-photo-3007208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "CateogryID": "2",
+      "id": 105
+    },
+    {
+      "Name": "asdgggf",
+      "Quantity": 5,
+      "Price": 300,
+      "CateogryID": "3",
+      "Img": "https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg?auto=compress&cs=tinysrgb&w=600\",",
+      "id": 106
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "Name": "category1"
+    },
+    {
+      "id": 2,
+      "Name": "category2"
+    },
+    {
+      "id": 3,
+      "Name": "category3"
+    }
+  ]
+}
